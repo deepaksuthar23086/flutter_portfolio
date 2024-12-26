@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684733558116",
+    "project_id": "portfolio-a5c99",
+    "storage_bucket": "portfolio-a5c99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684733558116:android:2d21d8811d5fa1878c9e71",
+        "android_client_info": {
+          "package_name": "com.example.yelwinoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcW7u2hbVlOeBuPflYvH0Opw69nS5_pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
